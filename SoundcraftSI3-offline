@@ -1,0 +1,44 @@
+
+
+
+ ## offline editor
+ - Download from; 
+
+
+ - Board in software looks the same, regardless of which model is chosen.
+
+
+ All console sizes will display the same image. You can access the rest of the consoles surface by hovering over the furthest left or right fader and clicking the Left (<-) or Right (->) arrows to scroll through the surface laterally. 
+
+Navigating the Virtual console can be done by using the zoom dialogue located on the home panel or by holding the left hand CTRL key and scrolling the mouse scroll wheel. 
+
+* To zoom the Si Offline Editor console in or out:
+
+Press [LEFT CTRL] + [MOUSE WHEEL]
+
+
+*To Save a SHOW file:
+
+*To Copy Paste settings from one channel to another:
+
+1. Select the source channel that contains settings.
+
+2. Select Menu and select Copy Paste option.
+
+3. From Copy Paste page, select Paste.
+
+4. Select the destination channel by pressing SEL.
+
+5. The source channel settings are now copied on to destination channel.
+
+Select MenuàShow->Save As->Apply->Save
+
+Note: Shows can be directly saved to and loaded from a USB key
+
+
+
+*To Clear Channel settings:
+
+1. Press Left Shift and Left click on CLR button.
+
+2. Left Click on SEL button of Channel that needs to be cleared.
